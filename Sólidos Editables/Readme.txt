@@ -1,0 +1,1 @@
+Los sólidos suministrados fueron creados en Inventor 2025. 
