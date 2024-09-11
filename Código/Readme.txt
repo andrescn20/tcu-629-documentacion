@@ -1,6 +1,6 @@
 En esta carpeta se puede encontrar todo el código asociado a los dispositivos. 
 
-Los archivos de Python explican su función en comentarios que poseeen dentro. 
+Los archivos de Python son para hacer pruebas y verificar el funcionamiento de los dispositivos. Cada uno posee comentarios que explican su función. 
 
 Los archivos de arduino son respectivamente para su uso en placas ESP32 o ARDUINO, según como lo indica el nombre de cada archivo. 
 
