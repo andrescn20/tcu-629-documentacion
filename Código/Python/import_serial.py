@@ -8,7 +8,7 @@ from datetime import datetime
 
 # Camnbiar el puerto "COM8" por el puerto al que está conectado el dispositivo.
 # Este puerto varía entre computadoras.
-ser = serial.Serial('COM8', 9600)
+ser = serial.Serial('COM5', 9600)
 
 
 with open('temperature_data.csv', 'w', newline='') as csvfile:
