@@ -2,6 +2,7 @@
 # La intención es tener acceso a la información enviada por el dispositivo y así leer los 
 # mensajes que este imprime. 
 
+import time
 import serial
 from datetime import datetime
 
