@@ -37,5 +37,5 @@ void loop() {
   Serial.println(tempC);
 
   // Add delay to avoid continuous reading
-  delay(10000);  // 10 seconds delay
+  delay(3000);  // Delay
 }
